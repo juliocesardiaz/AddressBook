@@ -1,12 +1,12 @@
-# _{Adress Book}_
+# _Address Book_
 
-##### _{Saves Contacts into an Adress Book}, {08/07/2015}_
+##### _Saves Contacts into an Adress Book, {08/07/2015}_
 
-#### By _**{Julio Diaz}**_
+#### By _**Julio Diaz**_
 
 ## Description
 
-_{Creates an Address Book that alows users to fill in information about contacts}_
+_Creates an Address Book that alows users to fill in information about contacts_
 
 ## Setup
 
@@ -21,9 +21,9 @@ _{Php, Silex, Twig, Composer}_
 
 ### Legal
 
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
-Copyright (c) 2015 **_{List of contribtors}_**
+
+Copyright (c) 2015 **_Julio Diaz_**
 
 This software is licensed under the MIT license.
 
