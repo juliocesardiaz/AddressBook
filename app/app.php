@@ -1,5 +1,5 @@
 <?php 
-	require_once __DIR__."/../vendor/autload.php";
+	require_once __DIR__."/../vendor/autoload.php";
 	require_once __DIR__."/../src/Contact.php";
 	
 	session_start();
@@ -27,4 +27,5 @@
 		Contact::deleteAll();
 		return $app['twig']->render('contacts_deleted.html.twig');
 	});
+	return $app;
 ?>
